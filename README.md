@@ -1,6 +1,6 @@
 # factura-frontend
 
-Este es un proyecto hecho en vue.js para la [API-Producto-factura](https://github.com/LuisGomez11/Spring-Producto-Factura)
+Este es un proyecto hecho en vue.js para el consumo de la [API-Producto-factura](https://github.com/LuisGomez11/Spring-Producto-Factura)
 
 ## Recommended IDE Setup
 
